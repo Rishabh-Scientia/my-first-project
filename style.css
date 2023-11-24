@@ -1,0 +1,264 @@
+.box1{
+    height: 50px;
+    background-color: rgb(228, 220, 220);
+    margin: 0%;
+    padding: 5px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+    border-radius: 20px;
+    
+}
+.logobut{
+    width: 40px;
+    height: 40px;
+    border: none;
+    border-radius:50%;
+    background-color: rgb(245, 11, 11);
+    color:white;
+    font-weight: 800;
+    font-size: 30px;
+    text-align: center;
+    padding-bottom: 5px;
+}
+#logo{
+    color: rgb(68, 121, 245);
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+}
+.navbut1{
+    border: none;
+    background: none;
+    color: rgba(255, 0, 0, 0.863);
+    font-size: 15px;
+    font-weight: 700;
+    height: 40px;
+    width: 100px;
+    margin-left: 300px;
+}
+.navbut{
+    border: none;
+    background: none;
+    color:rgb(51, 45, 45);
+    font-size: 15px;
+    font-weight: 700;
+    height: 40px;
+    width: 100px;
+    margin-left: 40px;
+}
+.navbut2{
+    border: none;
+    background: rgb(245, 11, 11);
+    color:white;
+    font-size: 15px;
+    font-weight: 700;
+    height: 35px;
+    width: 170px;
+    border-radius: 50px;
+    margin-left: 20px;
+
+}
+#p1{
+    color: red;
+    font-size: 20px;
+    font-weight: 900;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 0%;
+    
+}
+#p2{
+    color: black;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: left;
+    margin-left: 50px;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+#p3{
+    color: rgb(39, 38, 38);
+    font-size: 13px;
+    font-weight: 700;
+    font-style: normal;
+    text-align: left;
+    margin-left: 50px;
+}
+.box3{
+    background: rgb(231, 185, 185);
+    width: 500px;
+    height: 45px;
+    border-radius: 40px;
+    color:rgb(65, 60, 60);
+    margin-left: 100px;
+    margin-top: 50px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#p4{
+    font-size: 20px;
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    display: inline;
+}
+.webbut1{
+    width: 200px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    border: none;
+    border-radius: 40px;
+    color:white;
+    background-color: rgb(243, 12, 185);
+    margin-left: 100px;
+    margin-top: 0%;
+}
+.box4{
+    margin-top: 100px;
+    height: 300px;
+    background-color: rgb(251, 22, 14);
+    border-bottom-right-radius:200px;
+    border-top-left-radius: 200px;
+}
+.servicebut{
+    width: 50px;
+    height: 50px;
+    border: solid rgb(222, 224, 203) 5px;
+    background:none;
+    border-radius: 50%;
+    font-size: 20px;
+    font-weight: 800;
+    text-align: center;
+    color: rgb(219, 214, 188);
+}
+.box4a{
+    position: absolute;
+    left: 700px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+.box4b{
+    position: absolute;
+    left: 700px;
+    margin-bottom: 30px;
+    margin-top: 120px;
+}
+#para1{
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+    color: wheat;
+    margin-right: 30px;
+
+
+}
+.box4c{
+    position: absolute;
+    left: 700px;
+    margin-bottom:0%;
+    margin-top: 200px;
+}
+.img1{
+    position: absolute;
+    width: 350px;
+    height: 250px;
+    border-radius:50%;
+    left: 200px;
+    margin-top: 20px;
+    border:wheat solid 5px;
+}
+.box5{
+    position: absolute;
+    left: 650px;
+}
+#endpara1{
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+    text-align: left;
+    margin-bottom: 10px;
+    margin-top: 100px;
+}
+#endpara2{
+    
+    color: rgb(53, 49, 49);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    font-style: normal;
+    text-align: left;
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+.box6{
+    text-align: center;
+    margin-top: 70vh;
+    background-color: rgb(176, 199, 167);
+    padding: 20px;
+    margin-bottom: 0%;
+}
+#endpara3{
+    color: black;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+    font-style: normal;
+}
+.endbut{
+    width: 250px;
+    height: 35px;
+    border: none;
+    background: rgb(251, 22, 14);
+    border-radius: 50px;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: normal;
+    color: white;
+
+}
+.image1{
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    width: 400px;
+    height: 400px;
+}
+.image2{
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    margin-left: -650px;
+    margin-top: 0%;
+}
+button:hover{
+    background-color:black ;
+    color: white;
+    cursor: pointer;
+}
+button:active{
+    opacity: 0.6;
+}
+.end{
+    height: 40vh;
+    color: white;
+    background-color: rgb(3, 3, 22);
+    text-align: center;
+    margin-top: 0%;
+}
+#endimg{
+    width: 7em;
+    height: 7em;
+    border-radius: 50%;
+    margin-top: 1em;
+    border:solid wheat 3px;
+    
+}
